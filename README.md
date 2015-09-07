@@ -6,7 +6,7 @@ _Working With Objects_
 
 ### Overview of the Program
 
-This program calculates the area of a three-dimensional triangle using two functions, one that computes the distance between two points and one that does the area calculation using Heron's Formula. First, the user inputs three points (nine coordinates total). Then, the _computeArea_ function is called, which first calculates the length of all three sides. This is done by calling the distance formula located in the Point class function _distanceTo_. These three values are then plugged into Heron's Formula, which gives the area of the three-dimensional triangle. Finally, the value for the area is returned to the main function, where it is displayed. 
+This program calculates the area of a three-dimensional triangle using two functions, one that computes the distance between two points and one that does the area calculation using Heron's Formula. First, the user inputs three points (nine coordinates total). Then, the _computeArea_ function is called, which first calculates the length of all three sides. This is done by calling the distance formula located in the Point class function _distanceTo_. These three values are then plugged into Heron's Formula, which gives the area of the three-dimensional triangle. This value is returned to the main function, where it is displayed. 
 
 
 ### Compiler
