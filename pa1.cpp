@@ -1,5 +1,5 @@
 //
-// Created by Ivo Georgiev on 8/25/15.
+//
 //
 // This program will compute the area of a three-dimensional triangle.
 

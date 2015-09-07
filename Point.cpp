@@ -5,6 +5,7 @@
 
 // Default constructor
 // Initializes the point to (0.0, 0.0, 0.0)
+
 Point::Point()
 {
   x = 0.0;
@@ -24,6 +25,7 @@ Point::Point(double initX, double initY, double initZ)
 
 // Destructor
 // No dynamic allocation, so nothing to do; if omitted, generated automatically
+
 Point::~Point()
 {
   // no-op
